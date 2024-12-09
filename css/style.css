@@ -18,7 +18,8 @@ body {
 }
 
 body:has(.greetings:hover) {
-  background-image: url("./img/kolase.jpg");
+/*   background-image: url("./img/kolase.jpg"); */
+  background-image: url('img/kolase.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
